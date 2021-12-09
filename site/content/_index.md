@@ -1,9 +1,9 @@
 ---
-title: "당신은 망상증을 앓고있는게 아닙니다"
+title: "당신은 망상증 환자가 아닙니다"
 subtitle: mbti N 판정을 받은 당신을 위해
 image: /img/home-jumbotron.jpg
 blurb:
-    heading: 당신이 여기에 와야하는 이유
+    heading: 당신이 여기에  와야하는 이유
     text: 만약 mbti 검사에서 ENFP, ENTP, ENFJ, ENTJ, INFP, INTP, INFJ, INTJ 중 하나를 받게 된다면 당신은 주변으로부터 수많은 질문을 받게 될 것입니다.
 intro:
     heading: "What we offer"
