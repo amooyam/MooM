@@ -1,10 +1,10 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "당신은 망상증을 앓고있는게 아닙니다"
+subtitle: mbti N 판정을 받은 당신을 위해
 image: /img/home-jumbotron.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+    heading: 당신이 여기에 와야하는 이유
+    text: 만약 mbti 검사에서 ENFP, ENTP, ENFJ, ENTJ, INFP, INTP, INFJ, INTJ 중 하나를 받게 된다면 당신은 주변으로부터 수많은 질문을 받게 될 것입니다.
 intro:
     heading: "What we offer"
     text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
